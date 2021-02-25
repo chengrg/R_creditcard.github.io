@@ -1,4 +1,6 @@
 # R_creditcard.github.io
+Team members:
+Rui Cheng(rc3372), Guoshiwen Han(gh2567), Shiyun Yang (sy2797)
 
 This project is to reproduce the paper “The Comparisons of Data Mining Techniques for The Predictive Accuracy of Probability of Default of Credit Card Clients”, based on the dataset “Default of Credit Card Clients Dataset”. Then propose and implement the additional methods that are not included in the paper to better predict the result.
 
